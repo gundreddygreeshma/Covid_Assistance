@@ -1,6 +1,7 @@
 # covid_assistance_
 
 This Website is temporarily deployed at https://covid-emergency-assistance2.herokuapp.com/
+
 Description
 Covid emergency assistance is a fully functional Web application which is aimed at providing the emergency resources to patients with need.
 
@@ -34,3 +35,4 @@ cd ../
 npm start
 
 Process Flow Diagram
+![image](https://user-images.githubusercontent.com/90609197/178091194-106910af-a988-4b12-85c0-00968919c348.png)
