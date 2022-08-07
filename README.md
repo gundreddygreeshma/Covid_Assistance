@@ -25,17 +25,7 @@ Deployment :- **Heroku** Cloud Platform
 
 So Most of the project is based on JAVASCRIPT language.
 
-## Steps To run locally :
-
-`cd Covid-Emergency-Assistance_production`  
-`npm install`  
-
-`cd Covid-Emergency-Assistance_production/client`  
-`npm install`  
-`npm build`  
-
-`cd ../`  
-`npm start`
+`
 
 ## Process Flow Diagram
 
